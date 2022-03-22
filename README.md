@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshulgammy
-- 👀 I’m interested in Full Stack Java Application Development.
-- 🌱 I’m currently learning Cassandra.
+- 👀 I’m interested in Java Application Development.
+- 🌱 I’m currently learning and diving in Big Data Ecosystem.
 - 💞️ I’m looking to collaborate on Spring.
 - 📫 How to reach me? mail me at: anshulgammy@gmail.com
 
