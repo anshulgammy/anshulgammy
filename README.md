@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshulgammy!
 - 👀 I’m interested in Software Development & Engineering.
-- 🌱 I’m currently learning and diving in Big Data Ecosystem.
-- 💞️ I’m looking to collaborate on Spring.
+- 🌱 I’m currently learning and diving into Big Data Ecosystem.
+- 💞️ I’m looking to collaborate on Java and Spring.
 - 📫 How to reach me? mail me at: anshulgammy@gmail.com
 
 <!---
