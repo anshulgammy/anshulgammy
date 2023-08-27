@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @anshulgammy!
-- 👀 I’m interested in Software Development & Engineering.
-- 🌱 I’m currently learning and diving into Big Data Ecosystem.
-- 💞️ I’m looking to collaborate on Java and Spring.
+- 👋 Hi, I’m Anshul Gautam, a Software Craftsman from India!
+- 👀 I’m looking forward to collaborate on projects in Java, Spring Ecosystem and Big Data Technologies.
 - 📫 How to reach me? mail me at: anshulgammy@gmail.com
 
 <!---
